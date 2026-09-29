@@ -1,0 +1,22 @@
+1. User opens the Comic Craft application.
+
+
+2. User enters a story idea or topic.
+
+
+3. The application sends the input to the Gemini model.
+
+
+4. Gemini generates the story, characters, scenes, and dialogues.
+
+
+5. The story is divided into comic panels.
+
+
+6. The generated content is displayed to the user.
+
+
+7. User can review and modify the comic story.
+
+
+8. The final comic story can be saved or shared.
